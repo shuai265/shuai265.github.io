@@ -3,3 +3,4 @@ description: minima is a red hot theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: minima 
+source: ./blogs
